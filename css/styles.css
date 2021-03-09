@@ -1,0 +1,142 @@
+body {
+  text-align: center;
+  background-color: #EEEEEE;
+  font-family: 'Merriweather', serif;
+  font-size: 1.125em;
+  margin: 0;
+}
+
+h1 {
+  margin: 150px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 1;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  line-height: 1;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #11999E;
+  font-weight: normal;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  text-align: left;
+  line-height: 2;
+}
+
+hr {
+  border-top: 5px dotted #C2C5CC;
+  width:20%;
+}
+
+.icon {
+  width:40%;
+  float: left;
+  padding: 0 40px 20px 0;
+}
+
+.icon-right {
+  width:40%;
+  float: right;
+  padding: 0 0 20px 40px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.pythoneer {
+  font-style: italic;
+  font-size: 0.9rem;
+}
+
+.image-copyright {
+  display: block;
+  font-size: 0.6rem;
+  text-decoration: none;
+  line-height: 0.1;
+  color: #EAF6F6;
+  padding: 10px;
+}
+
+
+.footer-link {
+    font-size: 1rem;
+    line-height: 2;
+    color: white;
+    padding: 0 16px 0 16px;
+}
+
+.skills, .profile, .contact-me {
+  margin: 100px auto;
+}
+
+.top-container {
+  position: relative;
+}
+
+.middle-container {
+  position: relative;
+  margin: 0 25%;
+  text-align: left;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding:40px 0 20px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 15%;
+  top: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 15%;
+}
+
+.mountain {
+   width: 60%;
+   margin: 105px auto 0 auto;
+}
+
+.BUTTON_SJV {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Helvetica;
+   font-size: 25px;
+   font-weight: 100;
+   padding: 18px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_SJV:hover {
+   background: #76DFDF;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
